@@ -6,6 +6,8 @@ import base64
 import os
 from ModelPredictor import ModelPredictor
 
+predictor = ModelPredictor()
+
 # Must be first Streamlit command
 st.set_page_config(page_title="Concentration Predictor", layout="centered")
 
@@ -83,7 +85,6 @@ if uploaded_file is not None:
     cv2.imwrite(temp_path, image_np)
     
     # Load model and predict
-    predictor = ModelPredictor()
     predicted_value = predictor.predict_image(temp_path)
     
     # Show result
