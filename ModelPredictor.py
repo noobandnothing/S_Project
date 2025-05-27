@@ -10,7 +10,6 @@ from PIL import Image
 from torchvision import transforms
 from TinyConvRegressionModel import TinyConvRegressionModel
 from BoxCapture import BoxCapture
-from torch.serialization import add_safe_globals
 
 class ModelPredictor():
     def __init__(self):
