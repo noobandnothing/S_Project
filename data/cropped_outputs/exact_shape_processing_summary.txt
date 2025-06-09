@@ -1,0 +1,89 @@
+Exact Shape Cropping Summary
+============================
+Total images: 80
+Successfully processed: 80
+Failed: 0
+Success rate: 100.0%
+Settings: threshold=0.5, padding=0
+Edge smoothing: True, Feather edges: 2
+
+✅ 76.jpeg - Size: (np.int64(134), np.int64(467)), Confidence: 1.000, Mask ratio: 0.033
+✅ 65.jpeg - Size: (np.int64(130), np.int64(469)), Confidence: 1.000, Mask ratio: 0.033
+✅ 35.jpeg - Size: (np.int64(134), np.int64(469)), Confidence: 1.000, Mask ratio: 0.033
+✅ 63.jpeg - Size: (np.int64(134), np.int64(471)), Confidence: 1.000, Mask ratio: 0.033
+✅ 38.jpeg - Size: (np.int64(135), np.int64(472)), Confidence: 1.000, Mask ratio: 0.033
+✅ 64.jpeg - Size: (np.int64(134), np.int64(469)), Confidence: 1.000, Mask ratio: 0.033
+✅ 23.jpeg - Size: (np.int64(134), np.int64(466)), Confidence: 1.000, Mask ratio: 0.033
+✅ 8.png - Size: (np.int64(222), np.int64(760)), Confidence: 1.000, Mask ratio: 0.034
+✅ 51.jpeg - Size: (np.int64(134), np.int64(484)), Confidence: 1.000, Mask ratio: 0.034
+✅ 26.jpeg - Size: (np.int64(132), np.int64(466)), Confidence: 1.000, Mask ratio: 0.033
+✅ 10.png - Size: (np.int64(223), np.int64(768)), Confidence: 1.000, Mask ratio: 0.035
+✅ 57.jpeg - Size: (np.int64(132), np.int64(459)), Confidence: 1.000, Mask ratio: 0.032
+✅ 66.jpeg - Size: (np.int64(134), np.int64(474)), Confidence: 1.000, Mask ratio: 0.034
+✅ 56.jpeg - Size: (np.int64(132), np.int64(464)), Confidence: 1.000, Mask ratio: 0.033
+✅ 61.jpeg - Size: (np.int64(130), np.int64(466)), Confidence: 1.000, Mask ratio: 0.033
+✅ 78.jpeg - Size: (np.int64(132), np.int64(464)), Confidence: 1.000, Mask ratio: 0.033
+✅ 16.jpeg - Size: (np.int64(135), np.int64(475)), Confidence: 1.000, Mask ratio: 0.034
+✅ 48.png - Size: (np.int64(229), np.int64(780)), Confidence: 1.000, Mask ratio: 0.037
+✅ 24.png - Size: (np.int64(215), np.int64(760)), Confidence: 1.000, Mask ratio: 0.034
+✅ 20.jpeg - Size: (np.int64(131), np.int64(468)), Confidence: 1.000, Mask ratio: 0.033
+✅ 14.jpeg - Size: (np.int64(134), np.int64(476)), Confidence: 1.000, Mask ratio: 0.034
+✅ 13.jpeg - Size: (np.int64(130), np.int64(464)), Confidence: 1.000, Mask ratio: 0.033
+✅ 42.jpeg - Size: (np.int64(134), np.int64(469)), Confidence: 1.000, Mask ratio: 0.033
+✅ 79.jpeg - Size: (np.int64(134), np.int64(464)), Confidence: 1.000, Mask ratio: 0.033
+✅ 29.png - Size: (np.int64(225), np.int64(773)), Confidence: 1.000, Mask ratio: 0.036
+✅ 19.jpeg - Size: (np.int64(134), np.int64(474)), Confidence: 1.000, Mask ratio: 0.034
+✅ 37.jpeg - Size: (np.int64(135), np.int64(470)), Confidence: 1.000, Mask ratio: 0.034
+✅ 53.jpeg - Size: (np.int64(139), np.int64(464)), Confidence: 1.000, Mask ratio: 0.033
+✅ 69.jpeg - Size: (np.int64(133), np.int64(469)), Confidence: 1.000, Mask ratio: 0.033
+✅ 22.jpeg - Size: (np.int64(133), np.int64(470)), Confidence: 1.000, Mask ratio: 0.033
+✅ 31.jpeg - Size: (np.int64(134), np.int64(471)), Confidence: 1.000, Mask ratio: 0.033
+✅ 33.jpeg - Size: (np.int64(134), np.int64(469)), Confidence: 1.000, Mask ratio: 0.033
+✅ 9.jpeg - Size: (np.int64(134), np.int64(469)), Confidence: 1.000, Mask ratio: 0.033
+✅ 75.jpeg - Size: (np.int64(134), np.int64(466)), Confidence: 1.000, Mask ratio: 0.033
+✅ 28.jpeg - Size: (np.int64(132), np.int64(468)), Confidence: 1.000, Mask ratio: 0.032
+✅ 6.jpeg - Size: (np.int64(136), np.int64(474)), Confidence: 1.000, Mask ratio: 0.034
+✅ 34.jpeg - Size: (np.int64(135), np.int64(474)), Confidence: 1.000, Mask ratio: 0.034
+✅ 70.png - Size: (np.int64(231), np.int64(767)), Confidence: 1.000, Mask ratio: 0.035
+✅ 62.jpeg - Size: (np.int64(134), np.int64(464)), Confidence: 1.000, Mask ratio: 0.033
+✅ 21.jpeg - Size: (np.int64(134), np.int64(469)), Confidence: 1.000, Mask ratio: 0.033
+✅ 32.jpeg - Size: (np.int64(134), np.int64(465)), Confidence: 1.000, Mask ratio: 0.033
+✅ 73.jpeg - Size: (np.int64(134), np.int64(470)), Confidence: 1.000, Mask ratio: 0.033
+✅ 7.jpeg - Size: (np.int64(134), np.int64(474)), Confidence: 1.000, Mask ratio: 0.033
+✅ 80.jpeg - Size: (np.int64(134), np.int64(464)), Confidence: 1.000, Mask ratio: 0.033
+✅ 17.jpeg - Size: (np.int64(134), np.int64(471)), Confidence: 1.000, Mask ratio: 0.034
+✅ 1.jpeg - Size: (np.int64(134), np.int64(464)), Confidence: 1.000, Mask ratio: 0.032
+✅ 36.jpeg - Size: (np.int64(134), np.int64(474)), Confidence: 1.000, Mask ratio: 0.033
+✅ 46.jpeg - Size: (np.int64(135), np.int64(476)), Confidence: 1.000, Mask ratio: 0.034
+✅ 47.jpeg - Size: (np.int64(131), np.int64(483)), Confidence: 1.000, Mask ratio: 0.034
+✅ 5.jpeg - Size: (np.int64(135), np.int64(474)), Confidence: 1.000, Mask ratio: 0.033
+✅ 50.jpeg - Size: (np.int64(134), np.int64(474)), Confidence: 1.000, Mask ratio: 0.033
+✅ 11.png - Size: (np.int64(215), np.int64(743)), Confidence: 1.000, Mask ratio: 0.033
+✅ 59.jpeg - Size: (np.int64(134), np.int64(468)), Confidence: 1.000, Mask ratio: 0.033
+✅ 67.jpeg - Size: (np.int64(134), np.int64(469)), Confidence: 1.000, Mask ratio: 0.033
+✅ 27.jpeg - Size: (np.int64(134), np.int64(464)), Confidence: 1.000, Mask ratio: 0.033
+✅ 43.jpeg - Size: (np.int64(130), np.int64(464)), Confidence: 1.000, Mask ratio: 0.032
+✅ 15.jpeg - Size: (np.int64(134), np.int64(469)), Confidence: 1.000, Mask ratio: 0.033
+✅ 77.jpeg - Size: (np.int64(134), np.int64(470)), Confidence: 1.000, Mask ratio: 0.033
+✅ 3.jpeg - Size: (np.int64(134), np.int64(464)), Confidence: 1.000, Mask ratio: 0.033
+✅ 58.jpeg - Size: (np.int64(134), np.int64(464)), Confidence: 1.000, Mask ratio: 0.033
+✅ 4.jpeg - Size: (np.int64(131), np.int64(488)), Confidence: 1.000, Mask ratio: 0.035
+✅ 25.jpeg - Size: (np.int64(134), np.int64(464)), Confidence: 1.000, Mask ratio: 0.032
+✅ 72.jpeg - Size: (np.int64(134), np.int64(475)), Confidence: 1.000, Mask ratio: 0.034
+✅ 18.jpeg - Size: (np.int64(134), np.int64(474)), Confidence: 1.000, Mask ratio: 0.033
+✅ 41.jpeg - Size: (np.int64(134), np.int64(472)), Confidence: 1.000, Mask ratio: 0.033
+✅ 12.jpeg - Size: (np.int64(129), np.int64(462)), Confidence: 1.000, Mask ratio: 0.032
+✅ 40.jpeg - Size: (np.int64(134), np.int64(472)), Confidence: 1.000, Mask ratio: 0.033
+✅ 44.jpeg - Size: (np.int64(134), np.int64(469)), Confidence: 1.000, Mask ratio: 0.033
+✅ 45.jpeg - Size: (np.int64(137), np.int64(471)), Confidence: 1.000, Mask ratio: 0.034
+✅ 71.jpeg - Size: (np.int64(134), np.int64(469)), Confidence: 1.000, Mask ratio: 0.033
+✅ 2.jpeg - Size: (np.int64(139), np.int64(473)), Confidence: 1.000, Mask ratio: 0.033
+✅ 55.jpeg - Size: (np.int64(130), np.int64(464)), Confidence: 1.000, Mask ratio: 0.032
+✅ 68.jpeg - Size: (np.int64(131), np.int64(469)), Confidence: 1.000, Mask ratio: 0.033
+✅ 49.jpeg - Size: (np.int64(134), np.int64(476)), Confidence: 1.000, Mask ratio: 0.034
+✅ 60.jpeg - Size: (np.int64(134), np.int64(465)), Confidence: 1.000, Mask ratio: 0.033
+✅ 52.jpeg - Size: (np.int64(134), np.int64(469)), Confidence: 1.000, Mask ratio: 0.033
+✅ 30.jpeg - Size: (np.int64(136), np.int64(483)), Confidence: 1.000, Mask ratio: 0.034
+✅ 74.jpeg - Size: (np.int64(134), np.int64(469)), Confidence: 1.000, Mask ratio: 0.033
+✅ 54.jpeg - Size: (np.int64(134), np.int64(464)), Confidence: 1.000, Mask ratio: 0.032
+✅ 39.jpeg - Size: (np.int64(134), np.int64(474)), Confidence: 1.000, Mask ratio: 0.034

@@ -1,0 +1,6 @@
+Image Processing Summary
+=======================
+Total images: 80
+Successfully processed: 80
+Failed: 0
+Success rate: 100.0%
